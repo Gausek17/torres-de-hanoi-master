@@ -24,7 +24,7 @@ namespace Torres_de_Hanoi
 
         }
 
-        public void push(Disco d)
+        public void push(Disco disco)
         {
 
         }
